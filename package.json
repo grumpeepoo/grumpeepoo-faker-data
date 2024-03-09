@@ -1,0 +1,32 @@
+{
+  "name": "grumpeepoo-faker-data",
+  "version": "1.0.0",
+  "description": "Generates fake data using Faker Random User API.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate:data": "node src/index.js"
+  },
+  "keywords": [
+    "grumpeepoo-faker-data",
+    "faker",
+    "dummy",
+    "utility",
+    "generator",
+    "noname"
+  ],
+  "author": "grumpeepoo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grumpeepoo/grumpeepoo-faker-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/grumpeepoo/grumpeepoo-faker-data/issues"
+  },
+  "homepage": "https://github.com/grumpeepoo/grumpeepoo-faker-data#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "grumpeepoo-faker-data": "1.0.0"
+  }
+}
