@@ -8,6 +8,10 @@ dependencies:
   axios:
     specifier: ^1.6.7
     version: 1.6.7
+  grumpeepoo-faker-data:
+    specifier: ^1.0.1
+    version: 1.0.1
+    
 
 packages:
 

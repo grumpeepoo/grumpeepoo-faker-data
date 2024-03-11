@@ -1,3 +1,3 @@
 # grumpeepoo-faker-data
 
-easy to create dummy data.
+udah puasa meong
